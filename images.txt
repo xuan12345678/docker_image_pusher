@@ -4,6 +4,7 @@ nacos/nacos-server:v2.2.3
 rabbitmq
 elasticsearch:8.5.3
 kibana:8.5.3
+openjdk:17.0.2
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
